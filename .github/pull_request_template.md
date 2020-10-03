@@ -5,7 +5,7 @@
 - this list format is optional but neat
 
 ## Checklist
-- [ ] Branch is up-to-date with master
+- [ ] Branch is up-to-date with main branch
 - [ ] I've checked for duplicates
 - [ ] JSON is valid
 - [ ] The sea shanty/shanties added are also added in `available-shanties.json`

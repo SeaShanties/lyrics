@@ -1,5 +1,5 @@
 # Sea Shanty Lyrics
-A repository of lyrics to Sea Shanties stored in json for easy usage in projects and code
+> A repository of lyrics to Sea Shanties stored in json for easy usage in projects and code.
 
 # Puprose
 Lyrics are often found in different formats and on different websites. This project strives to create an archive in a reasonable format which can
@@ -21,10 +21,11 @@ The file `available-shanties.json` contains a json list of all the names of the 
 
 # Contributing
 **There are always more shanties out there and contributions are welcome but please take note of the following things:**
-- Only create pull requests that reference or solve issue(s). If there is no issue for what you want to work on feel free to create one. This ensures that the change can be discussed before time and efforts are commited to something that might be more of a hindrance than acctually helpful.
+- Only create pull requests that reference or solve issue(s). If there is no issue for what you want to work on feel free to create one. This ensures that the change can be discussed before time and efforts aren't commited to something that might be more of a hindrance than acctually helpful.
+- In regards to adding more shanties, please comment on the issue with the shanties you intend to add so that others know what is already in progress.
 - Remember to add the file name (excluding extension) to the `available-shanties.json`
 - Make sure your branch is up to date, rebase if it isn't.
-- Make sure your JSON is valid by runing a JSON validator.
+- Make sure your json is valid by runing a json validator.
 
 # Example file structure: ExampleShanty.json
 ```Json
@@ -97,7 +98,7 @@ The file `available-shanties.json` contains a json list of all the names of the 
                     "sing high and sing low",
                     "this jolly jolly song",
                     "one more pull, one more heave",
-                    "Now we've sung the first verse"
+                    "Now we've sung the second verse"
                 ],
                 {
                     "chorus": true
