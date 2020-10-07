@@ -1,0 +1,44 @@
+{
+    "name": "Here's a Health to the Company",
+    "versions": [
+        {
+            "name": "Here's a Health to the Company",
+            "credit": "David Coffin",
+            "chorus": [
+                "So here's a health to the company and one to my lass",
+                "We'll drink and be merry all out of one glass",
+                "We'll drink and be merry, from grief we'll refrain",
+                "For we we know not when we'll all meet again"
+            ],
+            "verses": [
+                [
+                    "Kind friends and companions, come join me in rhyme",
+                    "Come lift up your voices in chorus with mine",
+                    "Come drink and be merry, from grief we'll refrain",
+                    "For we we know not when we'll all meet again"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Here's a health to the fair lass that I love so well",
+                    "Her spirit and beauty there's none can excel",
+                    "She smiles on my countenance as she sits on my knee",
+                    "There is no one on earth who's happy as me"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "And now my ship lies in harbour and she's ready to dock",
+                    "I wish her safe landing without any shock",
+                    "And if I should leave you by land or by sea",
+                    "I will always remember your kindness to me"
+                ],
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}
