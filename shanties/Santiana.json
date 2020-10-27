@@ -4,6 +4,10 @@
         {
             "name": "Santiana",
             "credit": "The Longest Johns",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=nD4gLEBGSkE",
+                "spotify": "https://open.spotify.com/track/5TmOVL9PgXpYDHwvsHENGg"
+            },
             "chorus": [
                 "Well heave her up and away we'll go,",
                 "Away Santiana,",

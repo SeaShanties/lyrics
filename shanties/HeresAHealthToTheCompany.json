@@ -4,6 +4,10 @@
         {
             "name": "Here's a Health to the Company",
             "credit": "David Coffin",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=2gVGGpcr2TQ",
+                "spotify": "https://open.spotify.com/track/2o8rFa85CxZMRZBicydsMi"
+            },
             "chorus": [
                 "So here's a health to the company and one to my lass",
                 "We'll drink and be merry all out of one glass",
