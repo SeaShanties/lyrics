@@ -35,6 +35,9 @@
                     "Around Cape Horn through the ice and snow",
                     "(All on the plains of Mexico!)"
                 ],
+                {
+                    "chorus": true
+                },
                 [
                     "Twas on the field of Molley-Del-Rey",
                     "(Away Santiana!)",
@@ -58,7 +61,10 @@
                     "(Away Santiana!)",
                     "We left him buried off Cape Horn",
                     "(All on the plains of Mexico!)"
-                ]
+                ],
+                {
+                    "chorus": true
+                }
             ]
         }
     ]
