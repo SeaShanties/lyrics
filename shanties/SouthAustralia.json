@@ -4,6 +4,10 @@
         {
             "name": "South Australia",
             "credit": "Kimber's Men",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=dg5hJSsmcUA",
+                "spotify": "https://open.spotify.com/track/7cJUHN31KfyZjdAUnFq5ih"
+            },
             "chorus": [
                 "Haul away your rolling king, heave away, haul away",
                 "Haul away, you'll hear me sing, we're bound for South Australia"

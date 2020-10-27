@@ -35,6 +35,11 @@ The file `available-shanties.json` contains a json list of all the names of the 
         {
             "name": "Example Name",
             "credit": "Shanty group",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+                "spotify": "https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb",
+                "other_source": "link here"
+            },
             "chorus": [
                 "Oh this is the chorus",
                 "The jolly jolly chours",
