@@ -1,0 +1,65 @@
+{
+    "name": "Roll the Old Chariot Along",
+    "versions": [
+        {
+            "name": "Roll the Old Chariot Along",
+            "credit": "David Coffin",
+            "chorus": [
+                "And well roll the old Chariot Along",
+                "well roll the old Chariot Along",
+                "well roll the old Chariot Along",
+                "and we'll all hang on behind"
+            ],
+            "verses": [
+                [
+                    "Oh we'd be alright if the wind was in our sails",
+                    "we'd be alright if the wind was in our sails",
+                    "we'd be alright if the wind was in our sails",
+                    "And we'll all hang on behind"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Oh we'd be alright if we make it 'round the Horn",
+                    "We'd be alright if we make it 'round the Horn",
+                    "We'd be alright if we make it 'round the Horn",
+                    "And we'll all hang on behind"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Well a night's watch below wouldn't do us any harm",
+                    "Well a night's watch below wouldn't do us any harm",
+                    "Well a night's watch below wouldn't do us any harm",
+                    "And we'll all hang on behind"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Well a drop of Nelson's blood wouldn't do us any harm",
+                    "Well a drop of Nelson's blood wouldn't do us any harm",
+                    "Well a drop of Nelson's blood wouldn't do us any harm",
+                    "And we'll all hang on behind"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Well a night on the town wouldn't do us any harm",
+                    "Well a night on the town wouldn't do us any harm",
+                    "Well a night on the town wouldn't do us any harm",
+                    "And we'll all hang on behind"
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "name": "South Australia",
+    "versions": [
+        {
+            "name": "South Australia",
+            "credit": "Kimber's Men",
+            "chorus": [
+                "Haul away your rolling king, heave away, haul away",
+                "Haul away, you'll hear me sing, we're bound for South Australia"
+            ],
+            "verses": [
+                [
+                    "In South Australia I was born, (heave away, haul away)",
+                    "In South Australia, 'round Cape Horn, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "As I stepped out one morning fair, (heave away, haul away)",
+                    "'Twas there I met Miss Nancy Blair, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "I shook her up, I shook her down, (heave away, haul away)",
+                    "I shook her round and round that town, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "There ain't one thing that grains my mind, (heave away, haul away)",
+                    "To leave miss Nancy Blair behind, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "As you wallop round Cape Horn, (heave away, haul away)",
+                    "You wish to God you'd never been born, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "As I land in Australias sun, (heave away, haul away)",
+                    "A bottle of whiskey in my hand, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "It's back again to Liverpool, (heave away, haul away)",
+                    "I spend my pay like a bloody fool, (we're bound for South Australia)"
+                ],
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}
