@@ -1,0 +1,83 @@
+{
+    "name": "John Kanaka",
+    "versions": [
+        {
+            "name": "John Kanaka",
+            "credit": "Kimbers Men",
+            "sources": {
+                "bandcamp": "https://kimbersmen.bandcamp.com/track/john-kanaka"
+            },
+
+            "chorus": [
+                "to-la-jaaay oooh",
+                "tooo-laaa-jaaay",
+                "John Kanaka-naka to-la-jay"
+            ],
+            "verses": [
+                [
+                    "I heard, I heard the old man say",
+                    "John Kanaka-naka to-la-jay",
+                    "Today, today is a holiday",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "We'll work tomorrow but no work today",
+                    "John Kanaka-naka to-la-jay",
+                    "We'll work tomorrow but no work today",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "We're bound away for frisco bay",
+                    "John Kanaka-naka to-la-jay",
+                    "We're bound away at the break of day",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "We're bound away around cape horn",
+                    "John Kanaka-naka to-la-jay",
+                    "Where you wish to christ you'd never been born",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Well a yankee mate and a yankee crew",
+                    "John Kanaka-naka to-la-jay",
+                    "Oh we're the buckos to see her through",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Oh a yankee ship and a yankee mate",
+                    "John Kanaka-naka to-la-jay",
+                    "If you stop to walk you'll change your gait",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Oh haul away, oh haul away",
+                    "John Kanaka-naka to-la-jay",
+                    "Oh haul away and earn your pay",
+                    "John Kanaka-naka to-la-jay"
+                ],
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}

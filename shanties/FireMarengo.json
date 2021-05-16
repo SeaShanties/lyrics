@@ -1,0 +1,147 @@
+{
+    "name": "Fire Marengo",
+    "versions": [
+        {
+            "name": "Fire Marengo",
+            "credit": "Shanties & Songs of the Sea ft. Johhny Collins",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=S2_9mpRaC70"
+            },
+            "chorus": [
+                "Fire Marengo, fire away!"
+            ],
+            "verses": [
+                ["Lift him up and carry him along"],
+                {
+                    "chorus": true
+                },
+                ["Set him down where he belongs"],
+                {
+                    "chorus": true
+                },
+                ["Stow him in his hull below,"],
+                {
+                    "chorus": true
+                },
+                ["Stay he must but then he'll go."],
+                {
+                    "chorus": true
+                },
+                ["When I get back to Liverpool Town,"],
+                {
+                    "chorus": true
+                },
+                ["I'll cast a line to little Sally Brown."],
+                {
+                    "chorus": true
+                },
+                ["I'll haul her high, I'll haul her low,"],
+                {
+                    "chorus": true
+                },
+                ["I'll bust her blocks and make her go."],
+                {
+                    "chorus": true
+                },
+                ["Sally, she's a pretty little craft,"],
+                {
+                    "chorus": true
+                },
+                ["Shot to the fore and a rounded aft."],
+                {
+                    "chorus": true
+                },
+                ["Screw that cotton, screw it down,"],
+                {
+                    "chorus": true
+                },
+                ["Let's get back home to Liverpool town."],
+                {
+                    "chorus": true
+                },
+                ["Oh, lift him up and carry him along"],
+                {
+                    "chorus": true
+                },
+                ["Set him down where he belongs"],
+                {
+                    "chorus": true
+                }
+            ]
+        },
+        {
+            "name": "Fire Marengo",
+            "credit": "The Dreadnoughts",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=b-O1h8Xxwbo",
+                "spotify": "https://open.spotify.com/track/7bhMOBk9pTAnapiQh9Evyc?si=8wzuxWp9QzG-O2ecqHh2MQ"
+            },
+            "chorus": [
+                "Fire Marengo, fire away"
+            ],
+            "verses": [
+                ["Lift him up and carry him along"],
+                {
+                    "chorus": true
+                },
+                ["Put him down where he belongs"],
+                {
+                    "chorus": true
+                },
+                ["Ease him down and let him lay"],
+                {
+                    "chorus": true
+                },
+                ["Screw him in and there he'll stay"],
+                {
+                    "chorus": true
+                },
+                ["Now stow him in his hole below"],
+                {
+                    "chorus": true
+                },
+
+                ["Stay he must but then he'll go"],
+                {
+                    "chorus": true
+                },
+                ["When I get back to Liverpool town"],
+                {
+                    "chorus": true
+                },
+                ["I'll drop a line to little Sally Brown"],
+                {
+                    "chorus": true
+                },
+                ["I'll haul her high, I'll haul her low"],
+                {
+                    "chorus": true
+                },
+                ["I'll bust her locks and make her go"],
+                {
+                    "chorus": true
+                },
+                ["Oh Sally she's a pretty little craft"],
+                {
+                    "chorus": true
+                },
+
+                ["And sharp to the fore and rounded aft"],
+                {
+                    "chorus": true
+                },
+                ["So screw that cart and screw it down"],
+                {
+                    "chorus": true
+                },
+                ["Let's get the hell away from Shiloh town"],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}
