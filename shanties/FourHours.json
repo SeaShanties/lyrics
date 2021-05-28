@@ -1,0 +1,80 @@
+{
+    "name": "Four Hours",
+    "versions": [
+        {
+            "name": "Four Hours",
+            "credit": "The Longest Johns",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=v_JjTLrLz-c",
+                "spotify": "https://open.spotify.com/track/6aJua6vGHfGUNvhG8eeGQD?si=GmN6vwU8S52OvvWjSg1bVg"
+            },
+            "chorus": [
+                "Four Hours",
+                "workin' on the swell",
+                "Four Hours",
+                "Sloggin' in the rain",
+                "Four Hours",
+                "Workin' to the bell and",
+                "Four Hours",
+                "'Til it starts again"
+            ],
+            "verses": [
+                [
+                    "Come me boys and heave with me",
+                    "Let's get off this curs-ed sea",
+                    "Let's be home to lovers and wives",
+                    "And leave behind these four hour lives"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Come me boys and heave with me",
+                    "The wind's my friend and my enemy",
+                    "It carries me home but it must be tamed",
+                    "Everything lost or everything gained"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Come me boys and heave with me ",
+                    "Got scabrous hands and bloody knees",
+                    "But when the bell tolls, I'll go below",
+                    "My hands will callus and my strength will grow"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Come me boys and heave away",
+                    "Soaked and heavy heaving under the spray",
+                    "Will I ever shed this salt on my brow?",
+                    "Better the dust from under my plow"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "When I'm back in Bristol town",
+                    "I'll buy my love a silken gown",
+                    "We'll lie in each others arms and rest",
+                    "Un-til that bell sounds in my chest"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Four Hours",
+                    "Haulin' on the sheets!",
+                    "Four Hours",
+                    "Keepin' our feet!",
+                    "Four Hours",
+                    "Wrap me in the shroud and",
+                    "Four Hours",
+                    "Lay me in the ground"
+                ]
+            ]
+        }
+    ]
+}
