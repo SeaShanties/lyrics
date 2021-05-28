@@ -1,0 +1,65 @@
+{
+    "name": "Sailing Over The Dogger Bank",
+    "versions": [
+        {
+            "name": "Dogger Bank",
+            "credit": "The Teacups",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=FYBN_02sJvE",
+                "spotify": "https://open.spotify.com/track/4RpMYuu7irvkJ0siHRsEKN?si=VQT8uTL1QcmhBzU_iI4B0Q",
+                "bandcamp": "https://haystackrecords.bandcamp.com/track/dogger-bank"
+            },
+            "chorus": [
+                "So watch her, twigger, she's a proper ju-be-ju",
+                "Give a sheet, let 'er rip, we're the boys to pull her through",
+                "You should to see us rally, the wind a-blowin' free",
+                "On the passage from the Dogger bank to Great Grimsby"
+            ],
+            "verses": [
+                [
+                    "Sailing over the Dogger bank, now wasn't it a treat?",
+                    "The wind was blowing east-nor-east, we had to give a sheet",
+                    "You should to see us rally, the wind a-blowin' free",
+                    "On the passage from the Dogger bank to Great Grimsby"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Our captain, he's a Shanghai roush, he likes a drop of good ale",
+                    "Our first mate he's a ribstone pip and he's been in many a jail",
+                    "Our third mate shе's a bush ranger, the wrost of all the crеw",
+                    "A scoundrel and a packet rat and the son of a buckaroo"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "So watch her, twigger, it's down the street she came",
+                    "With high heels and painted toes, good Jilly is on the game",
+                    "She is one of them flash girls, can't she cut a shine?",
+                    "She can do a double shuffle on the Knickerbocker line"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Now we're the boys to make some noise when we get home from sea",
+                    "We get right drunk, we roll on the floor, we have a jubilee",
+                    "We get so drunk and full of beer, we roll along the floor",
+                    "And when our money is all spent, we'll go to sea for more"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "So watch her, twigger, she's a proper ju-be-ju",
+                    "Give a sheet, let 'er rip, we're the boys to pull her through",
+                    "You should to see us rally, the wind a-blowin' free",
+                    "On the passage from the Dogger bank to Great Grimsby",
+                    "On the passage from the Dogger bank to Great Grimsby"
+                ]
+            ]
+        }
+    ]
+}

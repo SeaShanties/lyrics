@@ -1,0 +1,93 @@
+{
+    "name": "The Antiguan Graveyard",
+    "versions": [
+        {
+            "name": "The Antiguan Graveyard",
+            "credit": "The Teacups",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=qklQCAGwvwM",
+                "spotify": "https://open.spotify.com/track/0l1QbTEOFgUxmHtVVcPVHz?si=lrFrCtozQDOnaWgiugPKDg",
+                "bandcamp": "https://haystackrecords.bandcamp.com/track/the-antiguan-graveyard"
+            },
+            "chorus": [
+                "We're off to Antigua, all on the salt sea",
+                "Though we care not for coffee, nor chocolate, nor tea",
+                "We'll drink up our rum, for it renders us numb",
+                "And wе'll hope to be home by thе end of the year"
+            ],
+            "verses": [
+                [
+                    "To Antigua our valiant ships they do sail",
+                    "Through dangerous waters and many a gale",
+                    "To lay in English Harbor, off Galleon Beach",
+                    "The furthest west corner of our empire to reach"
+                ],
+                [
+                    "To serve George, our king, and protect British Trade",
+                    "From the Frenchman's loud cannon, and the Spaniard's sharp blade",
+                    "Now Englishmen all they have no need to fear",
+                    "For the tropical waters of our Empire's frontier"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Now our anchor is lowered upon the sea floor",
+                    "And we live upon ship, never stepping on shore",
+                    "The sea is a sewer for there is no tide",
+                    "And without any shore leave where can we hide?"
+                ],
+                [
+                    "A fiery furnace burns tar on the land",
+                    "And we're trapped in our ship at the captain's command",
+                    "The air thick with brimstone, it burns in our throats",
+                    "In this far-away prison we find that hell floats"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Antigua's plantations, they grow thick with gold",
+                    "A sea of cane sugar brings fortune untold",
+                    "And we sailors all do our best to survive",
+                    "While hundreds and thousands of slaves they do drive"
+                ],
+                [
+                    "There's a stench on the gun deck, no fresh air or light",
+                    "And the heat never leaves us, come day or come night",
+                    "Our food it is rotten, the water is green",
+                    "Such torment around us you never have seen"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "The sugar cane's crushed and the rum it flows free",
+                    "Stored in lead bottles, we drink it with glee",
+                    "It makes our heads sore and our bellies do ache",
+                    "Our sea legs desert us, our hands they do shake"
+                ],
+                [
+                    "And then comes the fever, no man can escape",
+                    "If your skin it turns yellow, by then it's too late",
+                    "Chills in your body and aches in your back",
+                    "It is the foul curse of every poor Jack"
+                    
+                ],
+                [
+                    "Farewell to our comrades, we'll see them no more",
+                    "They're wrapped in their hammocks to be buried on shore",
+                    "It's fever, not fighting, takes sailors away",
+                    "And leaves many a ghost ship afloat in the bay"
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+
+            ]
+        }
+    ]
+}
