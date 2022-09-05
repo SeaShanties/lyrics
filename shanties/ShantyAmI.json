@@ -1,0 +1,69 @@
+{
+    "name": "Shanty Am I (Santiana)",
+    "versions": [
+        {
+            "name": "Shanty Am I (Santiana)",
+            "credit": "Digerpiraterna",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=LQyThSqvW18",
+                "spotify": "https://open.spotify.com/track/1i9K4AFFGkAO5EeVRIVmpC?si=m6EHTtLUQsSKlljeq2R-iQ"
+            },
+            "chorus": [
+                "Seek the treasure, ride the winds",
+                "Amiral Shanty am I!",
+                "We are owed, but we are free",
+                "All across the plains of Serious."
+            ],
+            "verses": [
+                [
+                    "We were left to die when the great war came.",
+                    "Amiral Shanty am I!",
+                    "Times were hard for the island fair.",
+                    "All across the plains of Serious"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "The mainland thugs had lost their souls.",
+                    "Amiral Shanty am I!",
+                    "They made us slaves and they beat us down.",
+                    "All across the plains of Serious"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Miss Shanty brought us to unite",
+                    "Amiral Shanty am I!",
+                    "From Erik north to southern Jan",
+                    "All across the plains of Serious"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Miss Shanty raised the black flag high",
+                    "Amiral Shanty am I!",
+                    "She drew her sword and she killed with a smile",
+                    "All across the plains of Serious"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Miss Shantys spirit lives in me.",
+                    "Amiral Shanty am I!",
+                    "Hers is the fury that keeps me alive.",
+                    "All across the plains of Serious"
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}

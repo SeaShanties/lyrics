@@ -1,0 +1,60 @@
+{
+    "name": "Hem Mot Digerhamn (Mingulay Boat Song)",
+    "versions": [
+        {
+            "name": "Hem Mot Digerhamn (Mingulay Boat Song)",
+            "credit": "Digerpiraterna",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=wM-EOGlWTXs",
+                "spotify": "https://open.spotify.com/track/1cDNcBGLumXGHTkkkZS0KI?si=S12kvfwnQsy5DS0TTbsv7w"
+            },
+            "chorus": [
+                "Hej o’hå där. Låt’na gå här.",
+                "Dra runt fören, rakt mot vågen.",
+                "Hej o’hå där. Låt’na gå här.",
+                "Segla hemåt mot Digerhamn."
+            ],
+            "verses": [
+                [
+                    "Vi har seglat sen i våras.",
+                    "Vi har plundrat och blivit rika.",
+                    "Vi har seglat, men nu är vi",
+                    "på väg hemåt mot Digerhamn."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Vad bryr vi oss om Kalmar Sund nu?",
+                    "Vad bryr vi oss om dåligt väder?",
+                    "När vi vet att varenda tum nu",
+                    "seglar hemåt mot Digerhamn."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Vänner väntar, nervid piren,",
+                    "blickar norrut mot Eckelsudde.",
+                    "Segla hemåt och kasta ankar,",
+                    "hösten kommer till Digerhamn."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Just när snön smält lättar vi ankar.",
+                    "Hela sommarn samlar vi skatter.",
+                    "Innan vintern vänder vi åter,",
+                    "seglar hemåt mot Digerhamn."
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}

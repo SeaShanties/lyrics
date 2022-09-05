@@ -1,0 +1,93 @@
+{
+    "name": "Port Dire (Old Maui)",
+    "versions": [
+        {
+            "name": "Port Dire (Old Maui)",
+            "credit": "Digerpiraterna",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=LL3NvBUOdl4",
+                "spotify": "https://open.spotify.com/track/6YQpEgo93WITWDipCU0Yaq?si=4diAHtoCTSe-pywQc1dpyA"
+            },
+            "chorus": [
+                "Rolling down to Port Dire, me friends,",
+                "rolling down to Port Dire",
+                "We’re homeward bound",
+                "from landlocked ground",
+                "rolling down to Port Dire."
+            ],
+            "verses": [
+                [
+                    "It’s a damn tough life",
+                    "full of toil and strife",
+                    "we pirates undergo.",
+                    "But we won’t give a hoot",
+                    "when we’re counting our loot",
+                    "how hard the winds did blow.",
+                    "For we’re homeward bound",
+                    "from landlocked ground",
+                    "on a ship with four tires.",
+                    "And we don’t give a damn",
+                    "when we drink our rum",
+                    "with the friends of Port Dire."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Once more we sail",
+                    "the northerly gale",
+                    "towards our Öland home.",
+                    "Our adventure is got,",
+                    "our captain is shot,",
+                    "and we ain’t got far to roam.",
+                    "For six hellish months",
+                    "we passed away",
+                    "under constant gunfire.",
+                    "But now we’re bound",
+                    "from landlocked ground",
+                    "rolling down to Port Dire."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "We roamed the coast",
+                    "while miss Shantys ghost",
+                    "willed us on to greater deeds.",
+                    "There was treasure to grab",
+                    "there were people to stab",
+                    "and we sated our needs.",
+                    "We found great success",
+                    "in the town Progresse",
+                    "and we burned it to the ground.",
+                    "Their security force",
+                    "is pursuing of course.",
+                    "Thank the sea we’re homeward bound."
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "We’ll be back one day",
+                    "in the Stråssa bay",
+                    "to drink and steal and fight.",
+                    "And we hope the dens",
+                    "of our wolven friends",
+                    "will stay panzer-strong with might.",
+                    "Even now their big",
+                    "yellow eyes look out",
+                    "hoping some fine day to see",
+                    "our ragged crew,",
+                    "drinking Dram of Screw,",
+                    "flying black flags, wild and free."
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                }
+            ]
+        }
+    ]
+}

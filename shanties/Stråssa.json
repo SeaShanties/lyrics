@@ -1,0 +1,90 @@
+{
+    "name": "Stråssa (Wellerman)",
+    "versions": [
+        {
+            "name": "Stråssa (Wellerman)",
+            "credit": "Digerpiraterna",
+            "sources": {
+                "youtube": "https://www.youtube.com/watch?v=z8g4WzW0Tug",
+                "spotify": "https://open.spotify.com/track/4oYwdU8dFbBHlUc2lND0E8?si=u0zD6J6cRaa8yXzI-Doj7A"
+            },
+            "chorus": [
+                "Stråssa är samhället som",
+                "kan ge oss slagsmål, guld och rom.",
+                "Där bor vi sommaren lång,",
+                "sen far vi hem igen."
+            ],
+            "verses": [
+                [
+                    "En gång fanns ett skepp i Östersjö",
+                    "som seglade ut mot Gotlands ö.",
+                    "Men där fanns det mest bara får och hö",
+                    "Vi stal ett lamm och stack. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Båd’ lamm och skepp vi övergav,",
+                    "vid Spårö Båk det gick i kvav.",
+                    "Vi bytte det mot hjul och nav",
+                    "och reste in mot land. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Vår kapten Angler styrde nordväst",
+                    "mot kyrkan och dess zombiepest.",
+                    "Vi spelade med en casinopräst,",
+                    "men guldet det tog slut. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Så hörde vi ryktas på vår färd",
+                    "att Stråssa var en anmärkningsvärd",
+                    "och givande plats för den som är lärd",
+                    "i plundraryrkets konst. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Med rom och kaps som stadig sold",
+                    "vi erbjöd vårat muntra våld.",
+                    "Mot god ersättning vi sålde stolt",
+                    "en lös lojalitet. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "Båd’ välförtjänt och plundrad skatt",
+                    "vi seglade hem och lämnade glatt.",
+                    "Mot vårkanten bestämdes det att",
+                    "vi åker nog tillbaks. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                [
+                    "I Stråssa finns det vin och bröd",
+                    "och möjligheter i överflöd,",
+                    "men också plötslig våldsam död.",
+                    "Ja, allt man önskar sig. (Hey!)"
+                ],
+                {
+                    "chorus": true
+                },
+                {
+                    "chorus": true
+                },
+                [
+                    "(Hey!)"
+                ]
+            ]
+        }
+    ]
+}

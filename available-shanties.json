@@ -9,6 +9,10 @@
         {"file": "DoggerBank", "name": "Sailing Over The Dogger Bank"},
         {"file": "Agamemnon", "name": "Agamemnon"},
         {"file": "TheAntiguanGraveyard", "name": "The Antiguan Graveyard"},
-        {"file": "FourHours", "name": "Four Hours"}
+        {"file": "FourHours", "name": "Four Hours"},
+        {"file": "ShantyAmI", "name": "Shanty Am I (Santiana)"},
+        {"file": "Stråssa", "name": "Stråssa (Wellerman)"},
+        {"file": "PortDire", "name": "Port Dire (Old Maui)"},
+        {"file": "HemMotDigerhamn", "name": "Hem Mot Digerhamn (Mingulay Boat Song)"}
     ]
 }
